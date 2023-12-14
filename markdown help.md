@@ -45,3 +45,6 @@ Italicized text *Italicized text*
     1.  intented list 1
     2.  indented list 2
 3.  list next...
+
+## Images
+![image name](imagelocalrefnospacesorfigureoutspaces)
