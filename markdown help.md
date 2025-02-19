@@ -18,6 +18,10 @@ bold **Bold Words**
 
 Italicized text *Italicized text*
 
+~~ Strikethrough ~~
+
+<u> underline </u>  
+
 ## Block quotes
 > block quote 1
 >
@@ -46,5 +50,28 @@ Italicized text *Italicized text*
     2.  indented list 2
 3.  list next...
 
+a. List A  
+b. List B  
+c. List C
+
+i. List A  
+ii. List B  
+iii. List C  
+
+    1. List A  
+    2. List B  
+           a. List a  
+           b. List b  
+
 ## Images
 ![image name](imagelocalrefnospacesorfigureoutspaces)
+
+## Links
+[Website](https://www.website.com)
+
+
+
+## Code Block
+    ```  
+    Text  
+    ```  
