@@ -61,7 +61,16 @@ iii. List C
     1. List A  
     2. List B  
            a. List a  
-           b. List b  
+           b. List b 
+
+### Checklists
+- [ ] Buy groceries
+- [x] Do laundry
+- [ ] Take out the trash 
+
+* [ ] Buy groceries
+* [x] Do laundry
+* [ ] Take out the trash
 
 ## Images
 ![image name](imagelocalrefnospacesorfigureoutspaces)
